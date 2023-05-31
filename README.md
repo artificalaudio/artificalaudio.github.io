@@ -5,7 +5,7 @@ Study Group Page for Audio Machine Learning Practicioners. (this is a quick page
 The purpose of this group is to learn and share understanding about modern practices in Audio Machine Learning. 
 
 Meetup - Dates/Times tbc. Starting June 2023, need to get an idea of location of participants in the study group, 
-to get an idea for ideal time. This is being organised on LAION server under the audio section. Dependending on particpants preference, the idea is also to meet together in the voice channel of the server. (Please email or DM if you have alternate preference on where it's hosted) 
+to get an idea for ideal time. This is being organised on LAION server under the audio section. Dependending on particpants preference, the idea is also to meet together in the voice channel of the server. (Please email or DM if you have alternate preference on where it's hosted; if people are happy with discord we can stick there) 
 
 # Lesson One - Building an intuitive understanding of Encodec and RVQ, unconditional sound generation using transformers and custom drum dataset. 
 
