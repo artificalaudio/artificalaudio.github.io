@@ -21,16 +21,16 @@ Points for interpretability experiments using different generation methods. For 
 
 Start of 2nd lesson we’ll go over homework submissions (play some audio of generated audio), and end of session go over homework issues/problems.  
 
-If anyone’s feeling confident and wants to go into the technical understanding/walkthrough implementation of RVQ we can that in 2nd lesson. And start talking about shared embedding spaces with text/audio, trying to build an intuive understanding with shared embedding spaces. 
+If anyone’s feeling confident and wants to go into the technical understanding/walkthrough implementation of RVQ we can do that in 2nd lesson. And start talking about shared embedding spaces with text/audio, trying to build an intuive understanding with shared embedding spaces. 
 
 I have starting making a list of ideal speakers/presenters. Please Email artificalaudio@gmail.com if you would like to either suggest a speaker, or present some of your work, or host a lesson on your area of expertise. 
 
 # Long view:
 
-The study group aims to build an intuive understanding of Audio related Machine Learning and implement Music/Audio related ML papers. From Music generation, Text-To-Speech to Timbre Transfer etc. Exploring methodologies and toolsets required to generate audio. 
+The study group aims to build an intuive understanding of Audio related Machine Learning and implement Music/Audio related ML papers. From Music generation, Text-To-Speech to Timbre Transfer etc. Exploring methodologies and toolsets required to generate audio.
 
-The group will gain the ability to use Transformers with Audio and Symbolic(midi). We will make extensive use of open source technologies in an effort to minimise the negative environmental impact of training large models. 
+The group will gain the ability to use Transformers with Audio and Symbolic(midi). We will make extensive use of open source technologies in an effort to minimise the negative environmental impact of training large models.  We aim to stay up to date with the current research and make the most of the current pace of Machine Learning development.  
 
 # Areas of scope:
 
-Transformers for Audio, MelGAN/Spectrogram approaches, neural Vocoders, audio/sample Diffusion, GRU's for analog modelling, learned DSP approaches eg DDSP.   
+Transformers for Audio, MelGAN/Spectrogram approaches, neural Vocoders, audio/sample Diffusion, GRU's for analog modelling, learned DSP approaches eg DDSP. (Feel free to email an more suggestions, Siren networks for audio? Neural Cellular Automata with CLAP guidance? etc)   
