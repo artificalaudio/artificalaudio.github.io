@@ -23,4 +23,4 @@ Start of 2nd lesson we’ll go over homework submissions (play some audio of gen
 
 If anyone’s feeling confident and wants to go into the technical understanding/walkthrough implementation of RVQ we can that in 2nd lesson. And start talking about shared embedding spaces with text/audio. 
 
-I have starting making a list of ideal speakers/presenters. 
+I have starting making a list of ideal speakers/presenters. Please Email artificalaudio@gmail.com if you would like to either suggest a speaker, or present some of your work, or host a lesson on your area of expertise. 
