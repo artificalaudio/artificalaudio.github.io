@@ -33,4 +33,4 @@ The group will gain the ability to use Transformers with Audio and Symbolic(midi
 
 # Areas of scope:
 
-Transformers for Audio, MelGAN/Spectrogram approaches, neural Vocoders, audio/sample Diffusion, GRU's for analog modelling, learned DSP approaches eg DDSP. (Feel free to email an more suggestions, Siren networks for audio? Neural Cellular Automata with CLAP guidance? etc)   
+Transformers for Audio, MelGAN/Spectrogram approaches, neural Vocoders, audio/sample Diffusion, GRU's for analog modelling, learned DSP approaches eg DDSP. (Feel free to email any more suggestions, Siren networks for audio? Neural Cellular Automata with CLAP guidance? etc)   
